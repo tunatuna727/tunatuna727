@@ -1,16 +1,27 @@
-## Hi there 👋
+# About Me
 
-<!--
-**tunatuna727/tunatuna727** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Hi, I'm Natsuna! 🖐️
+-  Passionate about web and game development
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+<a href="#">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=tunatuna727&show_icons=true&bg_color=8BC5E11D" />
+</a>
+<a href="#">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tunatuna727&layout=donut&bg_color=8BC5E11D" />
+</a>
+
+# Tech Stack
+
+## Languages
+
+![HTML](https://skillicons.dev/icons?i=html)
+![CSS](https://skillicons.dev/icons?i=css)
+![TypeScript](https://skillicons.dev/icons?i=typescript)
+![Node.js](https://skillicons.dev/icons?i=nodejs)
+
+## Frameworks & Libraries
+
+![React](https://skillicons.dev/icons?i=react)
+![Next.js](https://skillicons.dev/icons?i=nextjs)
