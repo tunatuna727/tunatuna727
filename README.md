@@ -20,6 +20,7 @@
 ![CSS](https://skillicons.dev/icons?i=css)
 ![TypeScript](https://skillicons.dev/icons?i=typescript)
 ![Node.js](https://skillicons.dev/icons?i=nodejs)
+![Python](https://skillicons.dev/icons?i=python)
 
 ## Frameworks & Libraries
 
